@@ -1,4 +1,7 @@
-# github-agent-ext
+# GitHub Textarea agent
+Invoke the GitHub agent from any text input.
+
+https://github.com/user-attachments/assets/476c6748-21a7-4b2b-9e7a-fcf255a729ea
 
 ## Get started
 
